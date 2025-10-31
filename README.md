@@ -1,0 +1,1 @@
+# Evaluating-the-Sustainability-and-Interpretability-of-CLIP-based-Image-Retrieval
